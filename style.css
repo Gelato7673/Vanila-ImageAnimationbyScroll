@@ -1,0 +1,23 @@
+body {
+    font-family: 'Bebas Neue', cursive;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+#img-sequence {
+    position: fixed;
+    width: 750px;
+    top: 150px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+/*    border: 2px dashed red;*/
+}
+
+.blank {
+    height: 1800px;
+    margin-top: 1000px;
+/*    border: 2px dashed red;*/
+}
